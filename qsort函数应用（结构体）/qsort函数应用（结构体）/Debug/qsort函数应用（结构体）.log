@@ -1,0 +1,4 @@
+﻿  test.c
+e:\.c\面试题(未发）\qsort函数应用（结构体）\qsort函数应用（结构体）\test.c(13): warning C4013: “strcmp”未定义；假设外部返回 int
+  qsort函数应用（结构体）.vcxproj -> E:\.c\面试题(未发）\qsort函数应用（结构体）\Debug\qsort函数应用（结构体）.exe
+  qsort函数应用（结构体）.vcxproj -> E:\.c\面试题(未发）\qsort函数应用（结构体）\Debug\qsort函数应用（结构体）.pdb (Partial PDB)
