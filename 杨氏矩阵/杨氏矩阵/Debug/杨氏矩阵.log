@@ -1,0 +1,4 @@
+﻿  test.c
+e:\.c\面试题(未发）\杨氏矩阵\杨氏矩阵\test.c(26): warning C4715: “FindNum”: 不是所有的控件路径都返回值
+  杨氏矩阵.vcxproj -> E:\.c\面试题(未发）\杨氏矩阵\Debug\杨氏矩阵.exe
+  杨氏矩阵.vcxproj -> E:\.c\面试题(未发）\杨氏矩阵\Debug\杨氏矩阵.pdb (Partial PDB)
