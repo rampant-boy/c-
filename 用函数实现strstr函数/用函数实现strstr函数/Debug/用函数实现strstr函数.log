@@ -1,0 +1,5 @@
+﻿  test.c
+e:\.c\面试题(未发）\用函数实现strstr函数\用函数实现strstr函数\test.c(9): warning C4090: “初始化”: 不同的“const”限定符
+e:\.c\面试题(未发）\用函数实现strstr函数\用函数实现strstr函数\test.c(10): warning C4090: “初始化”: 不同的“const”限定符
+  用函数实现strstr函数.vcxproj -> E:\.c\面试题(未发）\用函数实现strstr函数\Debug\用函数实现strstr函数.exe
+  用函数实现strstr函数.vcxproj -> E:\.c\面试题(未发）\用函数实现strstr函数\Debug\用函数实现strstr函数.pdb (Partial PDB)
